@@ -1,2 +1,2 @@
 # Deep-NN--DPO
-Programming deep neural networks on Python on DPO course
+Блокноты по "Программирование глубоких нейронных сетей" в рамках курса ДПО от УрФУ
